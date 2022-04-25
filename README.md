@@ -7,7 +7,5 @@ It's basically an automated script command, instead of opening the CMD and writi
 
 **List of release**
 
-1:  [Build 1](https://github.com/THEN3LLI/shutdown-tool/releases/tag/build)
-    shutdown timer in hrs
-    start and cancel button
-    windows release with binary
+[Build 1](https://github.com/THEN3LLI/shutdown-tool/releases/tag/build)
+
